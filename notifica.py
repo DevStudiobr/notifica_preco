@@ -40,7 +40,7 @@ def enviar_email(preco_atual, preco_desejado, email_destino):
     server.quit()
 
 # URL do produto e preço desejado
-url_produto = 'https://www.exemplo.com/produto'
+url_produto = 'https://br.shp.ee/oxq9oih'
 preco_desejado = 150.00  # Exemplo de preço desejado
 
 # Endereço de e-mail do usuário
